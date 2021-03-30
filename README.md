@@ -8,5 +8,5 @@ Languages:
 - GatsbyJS
 
 ---
-<img src="demoGIF.gif" width=250><br>
+<img src="demoGIF.gif" width=600><br>
 
